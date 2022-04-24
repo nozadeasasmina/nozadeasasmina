@@ -3,7 +3,7 @@
 
 I'm a freshgraduate from Airlangga University majoring in Statistics. I really enjoy with data and do some project data with python, sql and r and still learning with these programming language 👩🏻‍💻  
 
-👀 I'm looking for opportunities as junior data engineer with my github portofolio. 
+👀 I'm looking for opportunities as junior data scientist with my github portofolio. 
 
 👉[Noza's Portofolio](https://github.com/nozadeasasmina/Portofolio)
 
